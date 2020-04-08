@@ -1,0 +1,44 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-body{
+    text-align: center;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+    margin-bottom: 30px;
+}
+
+.card-img-top{
+    padding: 40px 40px 0px 40px;
+}
+.see_all{
+    margin-left: 70px;
+    color: orange;
+}
+footer{
+    text-align: center;
+}
+.cat1 img{
+    height: 230px;
+    width: 220px;
+    padding: 60px;
+    border-radius: 15px 20px 20px 25px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.cat2 img{
+    height: 230px;
+    width: 220px;
+    padding: 60px;
+    border-radius: 15px 20px 20px 25px;
+    box-shadow: 5px 5px 10px lightgray;
+}
